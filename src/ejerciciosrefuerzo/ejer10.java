@@ -26,7 +26,7 @@ public class ejer10 {
 			 resultado += i*multiplo;
 				  
 			 }
-			 			 //hola 	uw pasa
+			 
 			 System.out.println("La suma de los num1 primeros números múltiplos de 3 es: "+resultado);
 			 
 			 acierto = true;
